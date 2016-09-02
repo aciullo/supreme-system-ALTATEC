@@ -208,8 +208,6 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="about-me.html" />
-    <Content Include="about-us-basic.html" />
     <Content Include="about-us.html" />
     <Content Include="ajax\portfolio-ajax-load-more-2.html" />
     <Content Include="ajax\portfolio-ajax-load-more-3.html" />
@@ -254,22 +252,6 @@
     <Content Include="css\theme-shop.css" />
     <Content Include="css\theme.css" />
     <Content Include="favicon.ico" />
-    <Content Include="feature-admin-charts.html" />
-    <Content Include="feature-admin-forms-advanced.html" />
-    <Content Include="feature-admin-forms-basic.html" />
-    <Content Include="feature-admin-forms-code-editor.html" />
-    <Content Include="feature-admin-forms-wizard.html" />
-    <Content Include="feature-admin-tables-advanced.html" />
-    <Content Include="feature-admin-tables-ajax.html" />
-    <Content Include="feature-admin-tables-editable.html" />
-    <Content Include="feature-admin-tables-responsive.html" />
-    <Content Include="feature-grid-system.html" />
-    <Content Include="feature-layout-boxed.html" />
-    <Content Include="feature-layout-dark.html" />
-    <Content Include="feature-layout-rtl.html" />
-    <Content Include="feature-lazy-load.html" />
-    <Content Include="feature-page-loading.html" />
-    <Content Include="feature-typography.html" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
